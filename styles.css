@@ -90,3 +90,6 @@ blockquote {
   color: white;
   background-color: #c4b454;
 }
+#quote {
+ text-align: center;
+}
